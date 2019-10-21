@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Eject CD/DVD
+Type=Application
+Comment=eject cd/dvd on GNOME
+Terminal=false
+Exec=ejectcd
+Icon=media-eject-symbolic
+Categories=System;
+GenericName=ejectcd
+Keywords=system
+NoDisplay=false
